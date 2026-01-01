@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 import asyncio
 
-TOKEN = "8567582679:AAGeahuUdy-Y6qSykUEWoTepn2UtZVle17g"  # bot tokeningizni shu yerga yozing
+TOKEN = "8579329186:AAEWR3XGBTTfIj9WOd8MEilKAJeVPPTWz0Q"  # bot tokeningizni shu yerga yozing
 
 # ================= STATE =================
 (
@@ -127,7 +127,7 @@ ZONE_MAP = {
        # 🇫🇷 FRANSIYA
     "fransiya parij": "Europe/Paris",
     "франция париж": "Europe/Paris"
-    
+
 
 }
 
